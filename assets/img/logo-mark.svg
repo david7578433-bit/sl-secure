@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 108" role="img" aria-label="SL Secure">
+<title>SL Secure</title>
+<defs><linearGradient id="slg" x1="0.15" y1="0" x2="0.85" y2="1"><stop offset="0" stop-color="#45B0FF"/><stop offset="1" stop-color="#1663E0"/></linearGradient></defs>
+<path d="M48 3 L89 15 V52 C89 78 71.5 96.5 48 105 C24.5 96.5 7 78 7 52 V15 Z" fill="url(#slg)"/>
+<path d="M48 9.6 L83 19.8 V52 C83 74.6 68.3 90.6 48 98.6 C27.7 90.6 13 74.6 13 52 V19.8 Z" fill="none" stroke="#FFFFFF" stroke-opacity=".3" stroke-width="1.6"/>
+<path d="M62 33 H43 A10 10 0 0 0 33 43 V44.5 A10 10 0 0 0 43 54.5 H53 A10 10 0 0 1 63 64.5 V66 A10 10 0 0 1 53 76 H34" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round"/>
+<circle cx="62" cy="33" r="7.6" fill="#FFFFFF"/><circle cx="34" cy="76" r="7.6" fill="#FFFFFF"/><circle cx="62" cy="33" r="2.8" fill="#1663E0"/><circle cx="34" cy="76" r="2.8" fill="#1663E0"/>
+</svg>
