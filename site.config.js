@@ -40,8 +40,9 @@ window.SITE = {
   // e.g. "Sun–Thu 8am–7pm, Fri until 1pm" — leave as TODO to hide.
   hours: "TODO: business hours",
 
-  // Path to your logo file (put it in assets/img/). Leave "" to use the built-in SL Secure text logo.
-  logo: "",
+  // Logo used in the header and footer. Other versions in assets/img/: logo-light.svg (for white
+  // backgrounds), logo-full.svg / logo-full-light.svg (with "Low Voltage Systems · Inc."), logo-mark.svg.
+  logo: "assets/img/logo.svg",
 
   // Full public URL once the site is live (used for Google + link previews).
   siteUrl: "https://david7578433-bit.github.io/sl-secure/",
