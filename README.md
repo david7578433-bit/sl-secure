@@ -8,7 +8,7 @@ Open **`site.config.js`** — it's the only file you need to edit. Replace every
 (phone, text number, email, service area, license #, hours, address, site URL). Anything still marked `TODO` is
 hidden on the site automatically, so nothing fake ever shows.
 
-- **Logo:** put your logo file in `assets/img/` and set `logo: "assets/img/your-logo.png"`. Leave `""` to keep the built-in SL Secure text logo.
+- **Logo:** the SL Secure logo (shield with a circuit-trace "S") is in `assets/img/`: `logo.svg` (header, dark backgrounds), `logo-light.svg` (white backgrounds), `logo-full.svg` / `logo-full-light.svg` (with "Low Voltage Systems · Inc." — for print, vans, cards), `logo-mark.svg` (shield only, for icons). The site uses whatever `logo:` points to in the config.
 - **Job photos:** put photos in `assets/img/` and list them under `photos` in the config. Until then the Gallery shows "Project photos coming soon."
 - **Hero/section images** (`assets/img/hero.*`, `rack.*`, `intercom.*`) are generated illustrations, not photos of SL Secure jobs. Swap in real job photos (same file names) whenever you have them.
 
